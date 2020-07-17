@@ -27,6 +27,7 @@ ad = RingBuffer(3)
 ad.append(1)
 ad.append(2)
 ad.append(3)
+
 ad.append(4)
 ad.append(5)
 ad.append(7)
